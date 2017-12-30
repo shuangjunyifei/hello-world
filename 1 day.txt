@@ -1,0 +1,14 @@
+di yi tian xue xi nei rong
+
+   gittub yu git yixie jichu gongneng yuju
+   
+   
+   suo ding wei zhi  "cd" desktop/    huo   "cd .."
+   git status   (bixu suoding zhengque weizhi)
+   git add .
+   git commit -m"bei zhu"
+   git push origin master
+   
+   shiyong ruanjian bianchengqi bianji xingcheng yuyan wendang
+   
+   git clone http:........(wang zhi)(copy xialai de )
